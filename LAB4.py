@@ -19,6 +19,5 @@ for i in range(d):
         s.append(y)
         inside=inside+1
 print(4*inside/d)
-
 plt.plot(p,q,"-")
 plt.plot(r,s,"-")
